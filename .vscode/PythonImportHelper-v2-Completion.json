@@ -1,0 +1,1967 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerDetailsModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Diet_PlanModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseTypeModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerDetailsModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Diet_PlanModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseTypeModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerDetailsModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Diet_PlanModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerDetailsModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseModel",
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "isExtraImport": true,
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "importPath": "loginapp.models",
+        "description": "loginapp.models",
+        "isExtraImport": true,
+        "detail": "loginapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "importPath": "loginapp.models",
+        "description": "loginapp.models",
+        "isExtraImport": true,
+        "detail": "loginapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "loginapp.models",
+        "description": "loginapp.models",
+        "isExtraImport": true,
+        "detail": "loginapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "importPath": "loginapp.models",
+        "description": "loginapp.models",
+        "isExtraImport": true,
+        "detail": "loginapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "importPath": "loginapp.models",
+        "description": "loginapp.models",
+        "isExtraImport": true,
+        "detail": "loginapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "importPath": "loginapp.models",
+        "description": "loginapp.models",
+        "isExtraImport": true,
+        "detail": "loginapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "importPath": "loginapp.models",
+        "description": "loginapp.models",
+        "isExtraImport": true,
+        "detail": "loginapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "importPath": "loginapp.models",
+        "description": "loginapp.models",
+        "isExtraImport": true,
+        "detail": "loginapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "importPath": "loginapp.models",
+        "description": "loginapp.models",
+        "isExtraImport": true,
+        "detail": "loginapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "managerapp.models",
+        "description": "managerapp.models",
+        "isExtraImport": true,
+        "detail": "managerapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "managerapp.models",
+        "description": "managerapp.models",
+        "isExtraImport": true,
+        "detail": "managerapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "PlanModel",
+        "importPath": "managerapp.models",
+        "description": "managerapp.models",
+        "isExtraImport": true,
+        "detail": "managerapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "managerapp.models",
+        "description": "managerapp.models",
+        "isExtraImport": true,
+        "detail": "managerapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "PlanModel",
+        "importPath": "managerapp.models",
+        "description": "managerapp.models",
+        "isExtraImport": true,
+        "detail": "managerapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "managerapp.models",
+        "description": "managerapp.models",
+        "isExtraImport": true,
+        "detail": "managerapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSeralizers",
+        "importPath": "managerapp.seralizers",
+        "description": "managerapp.seralizers",
+        "isExtraImport": true,
+        "detail": "managerapp.seralizers",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSeralizers",
+        "importPath": "managerapp.seralizers",
+        "description": "managerapp.seralizers",
+        "isExtraImport": true,
+        "detail": "managerapp.seralizers",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "managerapp.seralizers",
+        "description": "managerapp.seralizers",
+        "isExtraImport": true,
+        "detail": "managerapp.seralizers",
+        "documentation": {}
+    },
+    {
+        "label": "rest_framework",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerDetailAPI",
+        "importPath": "coachapp.views",
+        "description": "coachapp.views",
+        "isExtraImport": true,
+        "detail": "coachapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "DietAPI",
+        "importPath": "coachapp.views",
+        "description": "coachapp.views",
+        "isExtraImport": true,
+        "detail": "coachapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseAPI",
+        "importPath": "coachapp.views",
+        "description": "coachapp.views",
+        "isExtraImport": true,
+        "detail": "coachapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseTypeAPI",
+        "importPath": "coachapp.views",
+        "description": "coachapp.views",
+        "isExtraImport": true,
+        "detail": "coachapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleAPI",
+        "importPath": "coachapp.views",
+        "description": "coachapp.views",
+        "isExtraImport": true,
+        "detail": "coachapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "coachapp.serializers",
+        "description": "coachapp.serializers",
+        "isExtraImport": true,
+        "detail": "coachapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DietPlanSerializers",
+        "importPath": "coachapp.serializers",
+        "description": "coachapp.serializers",
+        "isExtraImport": true,
+        "detail": "coachapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleSerializers",
+        "importPath": "coachapp.serializers",
+        "description": "coachapp.serializers",
+        "isExtraImport": true,
+        "detail": "coachapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerDetailsSerializers",
+        "importPath": "coachapp.serializers",
+        "description": "coachapp.serializers",
+        "isExtraImport": true,
+        "detail": "coachapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseSerializers",
+        "importPath": "coachapp.serializers",
+        "description": "coachapp.serializers",
+        "isExtraImport": true,
+        "detail": "coachapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ListAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "ListAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "ListAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "ListAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "TokenAuthentication",
+        "importPath": "rest_framework.authentication",
+        "description": "rest_framework.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "TokenAuthentication",
+        "importPath": "rest_framework.authentication",
+        "description": "rest_framework.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "TokenAuthentication",
+        "importPath": "rest_framework.authentication",
+        "description": "rest_framework.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "TokenAuthentication",
+        "importPath": "rest_framework.authentication",
+        "description": "rest_framework.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "D_planGetAPI",
+        "importPath": "customerapp.views",
+        "description": "customerapp.views",
+        "isExtraImport": true,
+        "detail": "customerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseGetAPI",
+        "importPath": "customerapp.views",
+        "description": "customerapp.views",
+        "isExtraImport": true,
+        "detail": "customerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleGetAPI",
+        "importPath": "customerapp.views",
+        "description": "customerapp.views",
+        "isExtraImport": true,
+        "detail": "customerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "customerGetAPI",
+        "importPath": "customerapp.views",
+        "description": "customerapp.views",
+        "isExtraImport": true,
+        "detail": "customerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerGetSerializers",
+        "importPath": "customerapp.serializers",
+        "description": "customerapp.serializers",
+        "isExtraImport": true,
+        "detail": "customerapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "D_planGetSerializers",
+        "importPath": "customerapp.serializers",
+        "description": "customerapp.serializers",
+        "isExtraImport": true,
+        "detail": "customerapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleGetSerializers",
+        "importPath": "customerapp.serializers",
+        "description": "customerapp.serializers",
+        "isExtraImport": true,
+        "detail": "customerapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "loginapp.views",
+        "description": "loginapp.views",
+        "isExtraImport": true,
+        "detail": "loginapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Logout",
+        "importPath": "loginapp.views",
+        "description": "loginapp.views",
+        "isExtraImport": true,
+        "detail": "loginapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserAPI",
+        "importPath": "loginapp.views",
+        "description": "loginapp.views",
+        "isExtraImport": true,
+        "detail": "loginapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "WhoAmI",
+        "importPath": "loginapp.views",
+        "description": "loginapp.views",
+        "isExtraImport": true,
+        "detail": "loginapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializers",
+        "importPath": "loginapp.serializers",
+        "description": "loginapp.serializers",
+        "isExtraImport": true,
+        "detail": "loginapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializers",
+        "importPath": "loginapp.serializers",
+        "description": "loginapp.serializers",
+        "isExtraImport": true,
+        "detail": "loginapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializers",
+        "importPath": "loginapp.serializers",
+        "description": "loginapp.serializers",
+        "isExtraImport": true,
+        "detail": "loginapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ObtainAuthToken",
+        "importPath": "rest_framework.authtoken.views",
+        "description": "rest_framework.authtoken.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.views",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "mode",
+        "importPath": "statistics",
+        "description": "statistics",
+        "isExtraImport": true,
+        "detail": "statistics",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "managerapp.views",
+        "description": "managerapp.views",
+        "isExtraImport": true,
+        "detail": "managerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "urllib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib",
+        "description": "urllib",
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "coachapp.migrations.0001_initial",
+        "description": "coachapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CustomerDetailsModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('daily_status', models.TextField()),",
+        "detail": "coachapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "coachapp.migrations.0002_initial",
+        "description": "coachapp.migrations.0002_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('coachapp', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='customerdetailsmodel',\n            name='customer',",
+        "detail": "coachapp.migrations.0002_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "coachapp.migrations.0003_auto_20220325_1105",
+        "description": "coachapp.migrations.0003_auto_20220325_1105",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('coachapp', '0002_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='customerdetailsmodel',\n            name='customer',\n            field=models.ForeignKey(default='', null=True, on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),",
+        "detail": "coachapp.migrations.0003_auto_20220325_1105",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "coachapp.migrations.0004_auto_20220325_1411",
+        "description": "coachapp.migrations.0004_auto_20220325_1411",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('coachapp', '0003_auto_20220325_1105'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='customerdetailsmodel',\n            name='d_plan',\n            field=models.ForeignKey(default='', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='coachapp.diet_planmodel'),\n        ),",
+        "detail": "coachapp.migrations.0004_auto_20220325_1411",
+        "documentation": {}
+    },
+    {
+        "label": "CoachappConfig",
+        "kind": 6,
+        "importPath": "coachapp.apps",
+        "description": "coachapp.apps",
+        "peekOfCode": "class CoachappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'coachapp'",
+        "detail": "coachapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseTypeModel",
+        "kind": 6,
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "peekOfCode": "class ExerciseTypeModel(models.Model):\n    t_name = models.CharField(max_length=50,null=False,blank=False)\nclass Diet_PlanModel(models.Model):\n    d_name = models.CharField(max_length=20,null=False,blank=False)\n    d_description = models.TextField()\nclass ScheduleModel(models.Model):\n    s_name = models.CharField(max_length=20,null=False,blank=False)\n    s_description = models.TextField()\nclass ExerciseModel(models.Model):\n    e_name = models.CharField(max_length=20,null=False,blank=False)",
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Diet_PlanModel",
+        "kind": 6,
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "peekOfCode": "class Diet_PlanModel(models.Model):\n    d_name = models.CharField(max_length=20,null=False,blank=False)\n    d_description = models.TextField()\nclass ScheduleModel(models.Model):\n    s_name = models.CharField(max_length=20,null=False,blank=False)\n    s_description = models.TextField()\nclass ExerciseModel(models.Model):\n    e_name = models.CharField(max_length=20,null=False,blank=False)\n    e_type = models.ManyToManyField(ExerciseTypeModel)\nclass CustomerDetailsModel(models.Model):",
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleModel",
+        "kind": 6,
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "peekOfCode": "class ScheduleModel(models.Model):\n    s_name = models.CharField(max_length=20,null=False,blank=False)\n    s_description = models.TextField()\nclass ExerciseModel(models.Model):\n    e_name = models.CharField(max_length=20,null=False,blank=False)\n    e_type = models.ManyToManyField(ExerciseTypeModel)\nclass CustomerDetailsModel(models.Model):\n    customer = models.ForeignKey(UserDetails,on_delete=models.CASCADE,default='',null=True)\n    d_plan = models.ForeignKey(Diet_PlanModel,on_delete=models.DO_NOTHING,default='',null=True)\n    schedule = models.ForeignKey(ScheduleModel,on_delete=models.DO_NOTHING,default='',null=True)",
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseModel",
+        "kind": 6,
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "peekOfCode": "class ExerciseModel(models.Model):\n    e_name = models.CharField(max_length=20,null=False,blank=False)\n    e_type = models.ManyToManyField(ExerciseTypeModel)\nclass CustomerDetailsModel(models.Model):\n    customer = models.ForeignKey(UserDetails,on_delete=models.CASCADE,default='',null=True)\n    d_plan = models.ForeignKey(Diet_PlanModel,on_delete=models.DO_NOTHING,default='',null=True)\n    schedule = models.ForeignKey(ScheduleModel,on_delete=models.DO_NOTHING,default='',null=True)\n    daily_status = models.TextField()",
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerDetailsModel",
+        "kind": 6,
+        "importPath": "coachapp.models",
+        "description": "coachapp.models",
+        "peekOfCode": "class CustomerDetailsModel(models.Model):\n    customer = models.ForeignKey(UserDetails,on_delete=models.CASCADE,default='',null=True)\n    d_plan = models.ForeignKey(Diet_PlanModel,on_delete=models.DO_NOTHING,default='',null=True)\n    schedule = models.ForeignKey(ScheduleModel,on_delete=models.DO_NOTHING,default='',null=True)\n    daily_status = models.TextField()",
+        "detail": "coachapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseTypeSerializers",
+        "kind": 6,
+        "importPath": "coachapp.serializers",
+        "description": "coachapp.serializers",
+        "peekOfCode": "class ExerciseTypeSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = ExerciseTypeModel\n        fields = \"__all__\"\nclass ExerciseSerializers(serializers.ModelSerializer):\n    e_type = ExerciseTypeSerializers(many=True)\n    class Meta:\n        model = ExerciseModel\n        fields = \"__all__\"\nclass DietPlanSerializers(serializers.ModelSerializer):",
+        "detail": "coachapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseSerializers",
+        "kind": 6,
+        "importPath": "coachapp.serializers",
+        "description": "coachapp.serializers",
+        "peekOfCode": "class ExerciseSerializers(serializers.ModelSerializer):\n    e_type = ExerciseTypeSerializers(many=True)\n    class Meta:\n        model = ExerciseModel\n        fields = \"__all__\"\nclass DietPlanSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = Diet_PlanModel\n        fields = \"__all__\"\nclass ScheduleSerializers(serializers.ModelSerializer):",
+        "detail": "coachapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DietPlanSerializers",
+        "kind": 6,
+        "importPath": "coachapp.serializers",
+        "description": "coachapp.serializers",
+        "peekOfCode": "class DietPlanSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = Diet_PlanModel\n        fields = \"__all__\"\nclass ScheduleSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = ScheduleModel\n        fields = \"__all__\"\nclass CustomerDetailsSerializers(serializers.ModelSerializer):\n    d_plan = serializers.SerializerMethodField()",
+        "detail": "coachapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleSerializers",
+        "kind": 6,
+        "importPath": "coachapp.serializers",
+        "description": "coachapp.serializers",
+        "peekOfCode": "class ScheduleSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = ScheduleModel\n        fields = \"__all__\"\nclass CustomerDetailsSerializers(serializers.ModelSerializer):\n    d_plan = serializers.SerializerMethodField()\n    customer = serializers.SerializerMethodField()\n    schedule = serializers.SerializerMethodField()\n    class Meta:\n        model = CustomerDetailsModel",
+        "detail": "coachapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerDetailsSerializers",
+        "kind": 6,
+        "importPath": "coachapp.serializers",
+        "description": "coachapp.serializers",
+        "peekOfCode": "class CustomerDetailsSerializers(serializers.ModelSerializer):\n    d_plan = serializers.SerializerMethodField()\n    customer = serializers.SerializerMethodField()\n    schedule = serializers.SerializerMethodField()\n    class Meta:\n        model = CustomerDetailsModel\n        fields = \"__all__\"\n    def get_customer(self,obj) :\n        c_obj = UserDetails.objects.filter(id=obj.customer.id,role=\"customer\")\n        c_qs = CustomerSeralizers(c_obj,many=True)",
+        "detail": "coachapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "coachapp.urls",
+        "description": "coachapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('etype/',ExerciseTypeAPI.as_view()),\n    path('exercise/',ExerciseAPI.as_view()),\n    path('diet/',DietAPI.as_view()),\n    path('schedule/',ScheduleAPI.as_view()),\n    path('customerdetail/',CustomerDetailAPI.as_view()),\n]",
+        "detail": "coachapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseTypeAPI",
+        "kind": 6,
+        "importPath": "coachapp.views",
+        "description": "coachapp.views",
+        "peekOfCode": "class ExerciseTypeAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = ExerciseTypeSerializers\n    def post(self,request):\n        try:\n            id = self.request.POST.get('id','')\n            t_name = self.request.POST.get('t_name','')\n            if id :   \n                qs_to_modify = ExerciseTypeModel.objects.filter(id=id) ",
+        "detail": "coachapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseAPI",
+        "kind": 6,
+        "importPath": "coachapp.views",
+        "description": "coachapp.views",
+        "peekOfCode": "class ExerciseAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = ExerciseSerializers\n    def post(self,request):\n        try:\n            id = self.request.POST.get('id','')\n            e_name = self.request.POST.get('e_name','')\n            if id :   \n                qs_to_modify = ExerciseModel.objects.filter(id=id) ",
+        "detail": "coachapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "DietAPI",
+        "kind": 6,
+        "importPath": "coachapp.views",
+        "description": "coachapp.views",
+        "peekOfCode": "class DietAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = DietPlanSerializers\n    def post(self,request):\n        try:\n            id = self.request.POST.get('id','')\n            d_name = self.request.POST.get('d_name','')\n            if id :   \n                qs_to_modify = Diet_PlanModel.objects.filter(id=id) ",
+        "detail": "coachapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleAPI",
+        "kind": 6,
+        "importPath": "coachapp.views",
+        "description": "coachapp.views",
+        "peekOfCode": "class ScheduleAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = ScheduleSerializers\n    def post(self,request):\n        try:\n            id = self.request.POST.get('id','')\n            s_name = self.request.POST.get('s_name','')\n            if id :   \n                qs_to_modify = ScheduleModel.objects.filter(id=id) ",
+        "detail": "coachapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerDetailAPI",
+        "kind": 6,
+        "importPath": "coachapp.views",
+        "description": "coachapp.views",
+        "peekOfCode": "class CustomerDetailAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = CustomerDetailsSerializers\n    def post(self,request):\n        try:\n            id = self.request.POST.get('id','')\n            d_plan = self.request.POST.get('d_plan','')\n            schedule = self.request.POST.get('schedule','')\n            customer = self.request.POST.get('customer','')",
+        "detail": "coachapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerappConfig",
+        "kind": 6,
+        "importPath": "customerapp.apps",
+        "description": "customerapp.apps",
+        "peekOfCode": "class CustomerappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'customerapp'",
+        "detail": "customerapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerGetSerializers",
+        "kind": 6,
+        "importPath": "customerapp.serializers",
+        "description": "customerapp.serializers",
+        "peekOfCode": "class CustomerGetSerializers(serializers.ModelSerializer):\n    customer = serializers.SerializerMethodField()\n    class Meta:\n        model = CustomerDetailsModel\n        fields = [\"customer\"]\n    def get_customer(self,obj) :\n        c_obj = UserDetails.objects.filter(id=obj.customer.id,role=\"customer\")\n        c_qs = CustomerSeralizers(c_obj,many=True)\n        return c_qs.data\nclass D_planGetSerializers(serializers.ModelSerializer):",
+        "detail": "customerapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "D_planGetSerializers",
+        "kind": 6,
+        "importPath": "customerapp.serializers",
+        "description": "customerapp.serializers",
+        "peekOfCode": "class D_planGetSerializers(serializers.ModelSerializer):\n    d_plan = serializers.SerializerMethodField()\n    class Meta:\n        model = CustomerDetailsModel\n        fields = [\"d_plan\"]\n    def get_d_plan(self,obj) :\n        d_obj = Diet_PlanModel.objects.filter(id=obj.d_plan.id)\n        d_qs = DietPlanSerializers(d_obj,many=True)\n        return d_qs.data\nclass ScheduleGetSerializers(serializers.ModelSerializer):",
+        "detail": "customerapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleGetSerializers",
+        "kind": 6,
+        "importPath": "customerapp.serializers",
+        "description": "customerapp.serializers",
+        "peekOfCode": "class ScheduleGetSerializers(serializers.ModelSerializer):\n    schedule = serializers.SerializerMethodField()\n    class Meta:\n        model = CustomerDetailsModel\n        fields = [\"schedule\", \"daily_status\"]\n    def get_schedule(self,obj) :\n        c_obj = ScheduleModel.objects.filter(id=obj.schedule.id)\n        c_qs = ScheduleSerializers(c_obj,many=True)\n        return c_qs.data\n# class ExerciseGetSerializers(serializers.ModelSerializer):",
+        "detail": "customerapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "customerapp.urls",
+        "description": "customerapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('customer/',customerGetAPI.as_view()),\n    path('d_plan/',D_planGetAPI.as_view()),\n    path('schedule/',ScheduleGetAPI.as_view()),\n    path('exercise/',ExerciseGetAPI.as_view()),\n]",
+        "detail": "customerapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "customerGetAPI",
+        "kind": 6,
+        "importPath": "customerapp.views",
+        "description": "customerapp.views",
+        "peekOfCode": "class customerGetAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = CustomerGetSerializers\n    def get_queryset(self):\n        id = self.request.POST.get('id','')\n        try:\n            qs = CustomerDetailsModel.objects.all()\n            if id : qs=qs.filter(id=id)\n            return qs.order_by('-id')",
+        "detail": "customerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "D_planGetAPI",
+        "kind": 6,
+        "importPath": "customerapp.views",
+        "description": "customerapp.views",
+        "peekOfCode": "class D_planGetAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = D_planGetSerializers\n    def get_queryset(self):\n        id = self.request.POST.get('id','')\n        try:\n            qs = CustomerDetailsModel.objects.all()\n            if id : qs=qs.filter(id=id)\n            return qs",
+        "detail": "customerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ScheduleGetAPI",
+        "kind": 6,
+        "importPath": "customerapp.views",
+        "description": "customerapp.views",
+        "peekOfCode": "class ScheduleGetAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = ScheduleGetSerializers\n    def get_queryset(self):\n        id = self.request.POST.get('id','')\n        try:\n            qs = CustomerDetailsModel.objects.all()\n            if id : qs=qs.filter(id=id)\n            return qs.order_by('-id')",
+        "detail": "customerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ExerciseGetAPI",
+        "kind": 6,
+        "importPath": "customerapp.views",
+        "description": "customerapp.views",
+        "peekOfCode": "class ExerciseGetAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (AllowAny,)\n    serializer_class = ExerciseSerializers\n    def get_queryset(self):\n        try:\n            qs = ExerciseModel.objects.all()\n            return qs\n        except Exception as e:\n            return Response({\"status\":False,\"message\":str(e),})",
+        "detail": "customerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "gym_managment.asgi",
+        "description": "gym_managment.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "gym_managment.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-p1l8w8$r!#v6qlb0t9d@6wo*^7a-^n7hwon#vtmfe4a_cafpj4'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-p1l8w8$r!#v6qlb0t9d@6wo*^7a-^n7hwon#vtmfe4a_cafpj4'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    #project apps",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    #project apps\n    'managerapp',\n    'coachapp',",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'gym_managment.urls'",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "ROOT_URLCONF = 'gym_managment.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'gym_managment.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "gym_managment.urls",
+        "description": "gym_managment.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('manager/',include('managerapp.urls')),\n    path('coach/',include('coachapp.urls')),\n    path('customer/',include('customerapp.urls')),\n    path('login/',include('loginapp.urls')),\n]",
+        "detail": "gym_managment.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "gym_managment.wsgi",
+        "description": "gym_managment.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "gym_managment.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "loginapp.migrations.0001_initial",
+        "description": "loginapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n        ('managerapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserDetails',\n            fields=[",
+        "detail": "loginapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "loginapp.migrations.0002_alter_userdetails_subscriptionplan_id",
+        "description": "loginapp.migrations.0002_alter_userdetails_subscriptionplan_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('managerapp', '0001_initial'),\n        ('loginapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userdetails',\n            name='subscriptionplan_id',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='managerapp.planmodel'),",
+        "detail": "loginapp.migrations.0002_alter_userdetails_subscriptionplan_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "loginapp.migrations.0003_auto_20220325_1105",
+        "description": "loginapp.migrations.0003_auto_20220325_1105",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('managerapp', '0001_initial'),\n        ('loginapp', '0002_alter_userdetails_subscriptionplan_id'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userdetails',\n            name='coach_id',\n            field=models.ForeignKey(blank=True, default='', null=True, on_delete=django.db.models.deletion.SET_NULL, to=settings.AUTH_USER_MODEL),",
+        "detail": "loginapp.migrations.0003_auto_20220325_1105",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "loginapp.migrations.0004_auto_20220325_1411",
+        "description": "loginapp.migrations.0004_auto_20220325_1411",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('managerapp', '0001_initial'),\n        ('loginapp', '0003_auto_20220325_1105'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userdetails',\n            name='coach_id',\n            field=models.ForeignKey(blank=True, default='', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to=settings.AUTH_USER_MODEL),",
+        "detail": "loginapp.migrations.0004_auto_20220325_1411",
+        "documentation": {}
+    },
+    {
+        "label": "LoginappConfig",
+        "kind": 6,
+        "importPath": "loginapp.apps",
+        "description": "loginapp.apps",
+        "peekOfCode": "class LoginappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'loginapp'",
+        "detail": "loginapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "kind": 6,
+        "importPath": "loginapp.models",
+        "description": "loginapp.models",
+        "peekOfCode": "class UserDetails(AbstractUser):\n    mobile = models.CharField(max_length=20,unique=True,null=False,blank=False,default='')\n    role = models.CharField(max_length=20,null=False,blank=False,default='')\n    subscriptionplan_id =models.ForeignKey(PlanModel,on_delete=models.DO_NOTHING,null=True,blank=True,default='1')\n    coach_id = models.ForeignKey('self',on_delete=models.DO_NOTHING,default='',null=True,blank=True)",
+        "detail": "loginapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializers",
+        "kind": 6,
+        "importPath": "loginapp.serializers",
+        "description": "loginapp.serializers",
+        "peekOfCode": "class UserSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = UserDetails\n        fields = \"__all__\"",
+        "detail": "loginapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "loginapp.urls",
+        "description": "loginapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('user/',UserAPI.as_view()),\n    path('whoami/',WhoAmI.as_view()),\n    path('log/',LoginView.as_view()),\n    path('logout/',Logout.as_view()),\n]",
+        "detail": "loginapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserAPI",
+        "kind": 6,
+        "importPath": "loginapp.views",
+        "description": "loginapp.views",
+        "peekOfCode": "class UserAPI(ListAPIView):\n    serializer_class = UserSerializers\n    Authentication_clases = (TokenAuthentication,)\n    Permission_classes =(AllowAny,)\n    def get_queryset(self):\n        try:\n            qs = UserDetails.objects.all()\n            return qs.order_by('-id')\n        except Exception as e:\n            return Response({\"status\":False,\"message\":str(e),})",
+        "detail": "loginapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "WhoAmI",
+        "kind": 6,
+        "importPath": "loginapp.views",
+        "description": "loginapp.views",
+        "peekOfCode": "class WhoAmI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticatedOrReadOnly,)\n    def get(self,request):\n        return Response({\n            \"Status\":1,\n            \"Data\":self.request.user.username\n        })\nclass LoginView(ObtainAuthToken):\n    def post(self, request, *args, **kwargs):",
+        "detail": "loginapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "kind": 6,
+        "importPath": "loginapp.views",
+        "description": "loginapp.views",
+        "peekOfCode": "class LoginView(ObtainAuthToken):\n    def post(self, request, *args, **kwargs):\n        serializer = self.serializer_class(data=request.data,\n                                           context={'request': request})\n        # print(serializer)\n        try:\n            test = serializer.is_valid(raise_exception=True)\n            user = serializer.validated_data['user']\n            token, created = Token.objects.get_or_create(user=user)\n            return Response({",
+        "detail": "loginapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Logout",
+        "kind": 6,
+        "importPath": "loginapp.views",
+        "description": "loginapp.views",
+        "peekOfCode": "class Logout(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticatedOrReadOnly,)\n    def get(self,request):\n        Data = Token.objects.get(user = self.request.user.id)\n        Data.delete()\n        return Response({\"status\":True,\"message\":\"logout successfully\"})",
+        "detail": "loginapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "managerapp.migrations.0001_initial",
+        "description": "managerapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='PlanModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('p_name', models.CharField(default='', max_length=20, unique=True)),",
+        "detail": "managerapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "managerapp.migrations.0002_rename_discription_planmodel_description",
+        "description": "managerapp.migrations.0002_rename_discription_planmodel_description",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('managerapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='planmodel',\n            old_name='discription',\n            new_name='description',\n        ),",
+        "detail": "managerapp.migrations.0002_rename_discription_planmodel_description",
+        "documentation": {}
+    },
+    {
+        "label": "ManagerappConfig",
+        "kind": 6,
+        "importPath": "managerapp.apps",
+        "description": "managerapp.apps",
+        "peekOfCode": "class ManagerappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'managerapp'",
+        "detail": "managerapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PlanModel",
+        "kind": 6,
+        "importPath": "managerapp.models",
+        "description": "managerapp.models",
+        "peekOfCode": "class PlanModel(models.Model):\n    p_name = models.CharField(max_length=20,null=False,blank=False,unique=True,default='')\n    p_price = models.FloatField(default=0.0)\n    description = models.TextField()\n# class CoachModel(models.Model):\n#     name = models.CharField(max_length=20,null=False,blank=False)\n#     phone = models.IntegerField(null=False,blank=False)\n# class CustomerModel(models.Model):\n#     name = models.CharField(max_length=20,null=False,blank=False,default='')\n#     phone = models.IntegerField(null=False,blank=False)",
+        "detail": "managerapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionSerializers",
+        "kind": 6,
+        "importPath": "managerapp.seralizers",
+        "description": "managerapp.seralizers",
+        "peekOfCode": "class SubscriptionSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = PlanModel\n        fields = \"__all__\"\n# class CoachSerializers(serializers.ModelSerializer):\n#     class Meta:\n#         model = CoachModel\n#         fields = \"__all__\"\nclass CoachSerializers(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "managerapp.seralizers",
+        "documentation": {}
+    },
+    {
+        "label": "CoachSerializers",
+        "kind": 6,
+        "importPath": "managerapp.seralizers",
+        "description": "managerapp.seralizers",
+        "peekOfCode": "class CoachSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = UserDetails\n        fields = ('id','username','mobile','date_joined')\nclass CustomerSeralizers(serializers.ModelSerializer):\n    subscriptionplan_id = serializers.SerializerMethodField()\n    coach_id = serializers.SerializerMethodField()\n    class Meta:\n        model = UserDetails\n        fields = \"__all__\"",
+        "detail": "managerapp.seralizers",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSeralizers",
+        "kind": 6,
+        "importPath": "managerapp.seralizers",
+        "description": "managerapp.seralizers",
+        "peekOfCode": "class CustomerSeralizers(serializers.ModelSerializer):\n    subscriptionplan_id = serializers.SerializerMethodField()\n    coach_id = serializers.SerializerMethodField()\n    class Meta:\n        model = UserDetails\n        fields = \"__all__\"\n    def get_subscriptionplan_id(self,obj):\n        print(\"get subscibtion plans id\",obj.subscriptionplan_id.id)\n        p_obj = PlanModel.objects.filter(id=obj.subscriptionplan_id.id) \n        p_qs = SubscriptionSerializers(p_obj,many=True)",
+        "detail": "managerapp.seralizers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "managerapp.urls",
+        "description": "managerapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('plan/',SubscriptionAPI.as_view()),\n    path('coach/',CoachAPI.as_view()),\n    path('cutomer/',CustomerAPI.as_view()),\n]",
+        "detail": "managerapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionAPI",
+        "kind": 6,
+        "importPath": "managerapp.views",
+        "description": "managerapp.views",
+        "peekOfCode": "class SubscriptionAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = SubscriptionSerializers\n    def post(self,requset):\n        id = self.request.POST.get('id','')\n        p_name = self.request.POST.get('p_name','')\n        try:\n            if id :\n                # if p_name:",
+        "detail": "managerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "CoachAPI",
+        "kind": 6,
+        "importPath": "managerapp.views",
+        "description": "managerapp.views",
+        "peekOfCode": "class CoachAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = CoachSerializers\n    def get_queryset(self):\n        try:\n            qs = UserDetails.objects.filter(role=\"coach\")\n            id = self.request.POST.get('id','')\n            name = self.request.POST.get('name','')\n            if id: qs = qs.filter(id=id)",
+        "detail": "managerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerAPI",
+        "kind": 6,
+        "importPath": "managerapp.views",
+        "description": "managerapp.views",
+        "peekOfCode": "class CustomerAPI(ListAPIView):\n    authentication_classes = (TokenAuthentication,)\n    permission_classes = (IsAuthenticated,)\n    serializer_class = CustomerSeralizers\n    # def post(self,request):\n        # id = self.request.POST.get('id','')\n        # subscriptionplan_id = self.request.POST.get('subscriptionplan_id','')\n        # coach_id = self.request.POST.get('coach_id','')\n        # plan_qs = PlanModel.objects.filter(id=subscriptionplan_id)\n        # try:",
+        "detail": "managerapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'gym_managment.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
