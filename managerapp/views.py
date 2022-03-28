@@ -11,7 +11,7 @@ from rest_framework.response import Response
 from rest_framework.authentication import TokenAuthentication
 from rest_framework.permissions import AllowAny, IsAuthenticated, IsAuthenticatedOrReadOnly
 from django.contrib.auth.hashers import make_password
-import urllib
+from django.core.mail import send_mail
 # Create your views here.
 class SubscriptionAPI(ListAPIView):
     authentication_classes = (TokenAuthentication,)
@@ -203,6 +203,7 @@ class CoachAPI(ListAPIView):
         user_obj= ''
         print("receved user data",self.request.data)
 
+
         try:
             id = self.request.POST.get("id",'')
             if id:
@@ -218,12 +219,26 @@ class CoachAPI(ListAPIView):
                     msg = "user details updated"
                     user_obj = serializer.save()
             else:
+                Email_address = self.request.POST.get('email') 
                 print("Adding new UserDetails")
+                print("email",Email_address)
                 serializer = UserSerializers(data=request.data,partial=True)
                 serializer.is_valid(raise_exception=True)
                 msg = "Data saved"
                 msg = "created new user"
                 user_obj = serializer.save(password=make_password(self.request.data['mobile']),role="coach")
+                # if email:
+                #     email = EmailMessage(' new coach ', 'congratulation to new coach', to=[Email_address])
+                #     email.send()
+                
+
+                send_mail(
+                    'Subject here',
+                    'congratulation to our new coach.',
+                    'gymmanagment720@gmail.com',
+                    [Email_address],
+                    fail_silently=False,
+                )
 
             return Response({
                 "status":True,

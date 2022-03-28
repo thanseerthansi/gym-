@@ -144,6 +144,22 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -1263,12 +1279,11 @@
         "documentation": {}
     },
     {
-        "label": "urllib",
-        "kind": 6,
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
         "isExtraImport": true,
-        "importPath": "urllib",
-        "description": "urllib",
-        "detail": "urllib",
+        "detail": "django.core.mail",
         "documentation": {}
     },
     {
@@ -1690,7 +1705,7 @@
         "kind": 5,
         "importPath": "gym_managment.settings",
         "description": "gym_managment.settings",
-        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'\n# email",
         "detail": "gym_managment.settings",
         "documentation": {}
     },
@@ -1699,7 +1714,7 @@
         "kind": 5,
         "importPath": "gym_managment.settings",
         "description": "gym_managment.settings",
-        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'\n# email\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'",
         "detail": "gym_managment.settings",
         "documentation": {}
     },
@@ -1708,7 +1723,7 @@
         "kind": 5,
         "importPath": "gym_managment.settings",
         "description": "gym_managment.settings",
-        "peekOfCode": "STATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "peekOfCode": "STATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'\n# email\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'gymmanagment720@gmail.com'",
         "detail": "gym_managment.settings",
         "documentation": {}
     },
@@ -1717,7 +1732,7 @@
         "kind": 5,
         "importPath": "gym_managment.settings",
         "description": "gym_managment.settings",
-        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'loginapp.UserDetails'\n# email\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'gymmanagment720@gmail.com'\nEMAIL_HOST_PASSWORD = 'nxomztyqhnpmkhcc'\nEMAIL_PORT = 587",
         "detail": "gym_managment.settings",
         "documentation": {}
     },
@@ -1726,7 +1741,61 @@
         "kind": 5,
         "importPath": "gym_managment.settings",
         "description": "gym_managment.settings",
-        "peekOfCode": "AUTH_USER_MODEL = 'loginapp.UserDetails'",
+        "peekOfCode": "AUTH_USER_MODEL = 'loginapp.UserDetails'\n# email\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'gymmanagment720@gmail.com'\nEMAIL_HOST_PASSWORD = 'nxomztyqhnpmkhcc'\nEMAIL_PORT = 587",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'gymmanagment720@gmail.com'\nEMAIL_HOST_PASSWORD = 'nxomztyqhnpmkhcc'\nEMAIL_PORT = 587",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'gymmanagment720@gmail.com'\nEMAIL_HOST_PASSWORD = 'nxomztyqhnpmkhcc'\nEMAIL_PORT = 587",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'gymmanagment720@gmail.com'\nEMAIL_HOST_PASSWORD = 'nxomztyqhnpmkhcc'\nEMAIL_PORT = 587",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "EMAIL_HOST_USER = 'gymmanagment720@gmail.com'\nEMAIL_HOST_PASSWORD = 'nxomztyqhnpmkhcc'\nEMAIL_PORT = 587",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = 'nxomztyqhnpmkhcc'\nEMAIL_PORT = 587",
+        "detail": "gym_managment.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "gym_managment.settings",
+        "description": "gym_managment.settings",
+        "peekOfCode": "EMAIL_PORT = 587",
         "detail": "gym_managment.settings",
         "documentation": {}
     },
@@ -1785,6 +1854,15 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "loginapp.migrations.0005_alter_userdetails_subscriptionplan_id",
+        "description": "loginapp.migrations.0005_alter_userdetails_subscriptionplan_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('managerapp', '0002_rename_discription_planmodel_description'),\n        ('loginapp', '0004_auto_20220325_1411'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userdetails',\n            name='subscriptionplan_id',\n            field=models.ForeignKey(blank=True, default='', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='managerapp.planmodel'),",
+        "detail": "loginapp.migrations.0005_alter_userdetails_subscriptionplan_id",
+        "documentation": {}
+    },
+    {
         "label": "LoginappConfig",
         "kind": 6,
         "importPath": "loginapp.apps",
@@ -1798,7 +1876,7 @@
         "kind": 6,
         "importPath": "loginapp.models",
         "description": "loginapp.models",
-        "peekOfCode": "class UserDetails(AbstractUser):\n    mobile = models.CharField(max_length=20,unique=True,null=False,blank=False,default='')\n    role = models.CharField(max_length=20,null=False,blank=False,default='')\n    subscriptionplan_id =models.ForeignKey(PlanModel,on_delete=models.DO_NOTHING,null=True,blank=True,default='1')\n    coach_id = models.ForeignKey('self',on_delete=models.DO_NOTHING,default='',null=True,blank=True)",
+        "peekOfCode": "class UserDetails(AbstractUser):\n    mobile = models.CharField(max_length=20,unique=True,null=False,blank=False,default='')\n    role = models.CharField(max_length=20,null=False,blank=False,default='')\n    subscriptionplan_id =models.ForeignKey(PlanModel,on_delete=models.DO_NOTHING,null=True,blank=True,default='')\n    coach_id = models.ForeignKey('self',on_delete=models.DO_NOTHING,default='',null=True,blank=True)",
         "detail": "loginapp.models",
         "documentation": {}
     },
