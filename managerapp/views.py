@@ -422,7 +422,7 @@ class CustomerAPI(ListAPIView):
                 msg = "created new user"
                 user_obj = serializer.save(password=make_password(self.request.data['mobile']),subscriptionplan_id=s_qs,coach_id=c_qs,role="customer")
                 send_mail(
-                    'Subject here',
+                    'gym',
                     'congratulation to join our gym.',
                     'gymmanagment720@gmail.com',
                     [Email_address],
