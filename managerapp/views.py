@@ -390,7 +390,7 @@ class CustomerAPI(ListAPIView):
             if coach_id:
                 c_qs = UserDetails.objects.filter(id=coach_id,role="coach")
                 
-                if len(c_qs)==0: return Response({"status":False,"message":"No record found in coach with provided id"+subscriptionplan_id})
+                if len(c_qs)==0: return Response({"status":False,"message":"No record found in coach with provided id"+coach_id})
                 c_qs = c_qs.first()
 
             if id:
@@ -414,13 +414,20 @@ class CustomerAPI(ListAPIView):
                     msg = "user details updated"
                     user_obj = serializer.save(subscriptionplan_id=s_qs,coach_id=c_qs)
             else:
+                Email_address = self.request.POST.get('email') 
                 print("Adding new UserDetails")
                 serializer = UserSerializers(data=request.data,partial=True)
                 serializer.is_valid(raise_exception=True)
                 msg = "Data saved"
                 msg = "created new user"
                 user_obj = serializer.save(password=make_password(self.request.data['mobile']),subscriptionplan_id=s_qs,coach_id=c_qs,role="customer")
-
+                send_mail(
+                    'Subject here',
+                    'congratulation to join our gym.',
+                    'gymmanagment720@gmail.com',
+                    [Email_address],
+                    fail_silently=False,
+                )
             return Response({
                 "status":True,
                 "message":msg,
